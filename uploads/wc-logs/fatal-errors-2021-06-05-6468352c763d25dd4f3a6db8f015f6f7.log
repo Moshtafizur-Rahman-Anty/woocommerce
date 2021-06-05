@@ -1,0 +1,280 @@
+2021-06-05T16:39:56+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T16:40:36+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T16:51:40+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T16:53:57+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T16:54:49+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T16:59:34+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:01:20+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:02:40+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:02:46+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:19:10+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:21:01+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:23:08+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:26:01+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+
+2021-06-05T17:26:15+00:00 CRITICAL Uncaught TypeError: implode(): Argument #2 ($array) must be of type ?array, string given in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php:545
+Stack trace:
+#0 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(545): implode(Array, '|')
+#1 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php(578): SimplePie_Parse_Date->__construct()
+#2 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Registry.php(221): SimplePie_Parse_Date::get()
+#3 C:\xampp\htdocs\woocommerce\wp-includes\SimplePie\Item.php(785): SimplePie_Registry->call('Parse_Date', 'get')
+#4 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2925): SimplePie_Item->get_date('U')
+#5 C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\class-simplepie.php(2812): SimplePie->get_items()
+#6 C:\xampp\htdocs\woocommerce\wp-includes\widgets.php(1546): SimplePie->get_item_quantity()
+#7 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1529): wp_widget_rss_output(Object(SimplePie), Array)
+#8 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1135): wp_dashboard_primary_output('dashboard_prima...', Array)
+#9 C:\xampp\htdocs\woocommerce\wp-admin\includes\dashboard.php(1513): wp_dashboard_cached_rss_widget('dashboard_prima...', 'wp_dashboard_pr...', Array)
+#10 C:\xampp\htdocs\woocommerce\wp-admin\includes\ajax-actions.php(400): wp_dashboard_primary()
+#11 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(287): wp_ajax_dashboard_widgets('')
+#12 C:\xampp\htdocs\woocommerce\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#13 C:\xampp\htdocs\woocommerce\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#14 C:\xampp\htdocs\woocommerce\wp-admin\admin-ajax.php(184): do_action('wp_ajax_dashboa...')
+#15 {main}
+  thrown in C:\xampp\htdocs\woocommerce\wp-content\plugins\_fix-simplepie-errors-master\include\SimplePie\Parse\Date.php on line 545
+

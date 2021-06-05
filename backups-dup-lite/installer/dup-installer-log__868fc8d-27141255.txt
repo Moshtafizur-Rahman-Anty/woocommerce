@@ -1,0 +1,646 @@
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/config/class.constants.php|LINE:71]
+[PHP ERR][WARN] MSG:mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/class.db.php|LINE:48]
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/class.db.php|LINE:48]
+DATABASE CONNECTION ERROR: php_network_getaddresses: getaddrinfo failed: Name or service not known[ERRNO:2002]
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/config/class.constants.php|LINE:71]
+[PHP ERR][WARN] MSG:mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/class.db.php|LINE:48]
+[PHP ERR][WARN] MSG:mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/class.db.php|LINE:48]
+DATABASE CONNECTION ERROR: php_network_getaddresses: getaddrinfo failed: Name or service not known[ERRNO:2002]
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/config/class.constants.php|LINE:71]
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/config/class.constants.php|LINE:71]
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 03:18:11
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.3.16 -- Build Server: 10.4.14
+FILE SIZE:	dup-database__[HASH].sql (659.16KB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[/storage/ssd5/434/16021434/public_html/dup-installer/dup-installer-data__[HASH].sql]
+COLLATE FB:	Off
+
+NOTICE: This servers version [10.3.16] is less than the build version [10.4.14].  
+If you find issues after testing your site please referr to this FAQ item.
+https://snapcreek.com/duplicator/docs/faqs-tech/#faq-installer-260-q
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	391
+
+wcc_actionscheduler_actions: (35)
+wcc_actionscheduler_claims: (0)
+wcc_actionscheduler_groups: (2)
+wcc_actionscheduler_logs: (105)
+wcc_commentmeta: (6)
+wcc_comments: (20)
+wcc_duplicator_packages: (0)
+wcc_links: (0)
+wcc_options: (289)
+wcc_postmeta: (1400)
+wcc_posts: (181)
+wcc_term_relationships: (89)
+wcc_term_taxonomy: (32)
+wcc_termmeta: (21)
+wcc_terms: (32)
+wcc_usermeta: (73)
+wcc_users: (2)
+wcc_wc_admin_note_actions: (21)
+wcc_wc_admin_notes: (20)
+wcc_wc_category_lookup: (1)
+wcc_wc_customer_lookup: (1)
+wcc_wc_download_log: (0)
+wcc_wc_order_coupon_lookup: (4)
+wcc_wc_order_product_lookup: (33)
+wcc_wc_order_stats: (11)
+wcc_wc_order_tax_lookup: (0)
+wcc_wc_product_meta_lookup: (26)
+wcc_wc_reserved_stock: (0)
+wcc_wc_tax_rate_classes: (2)
+wcc_wc_webhooks: (0)
+wcc_woocommerce_api_keys: (0)
+wcc_woocommerce_attribute_taxonomies: (2)
+wcc_woocommerce_downloadable_product_permissions: (0)
+wcc_woocommerce_log: (0)
+wcc_woocommerce_order_itemmeta: (319)
+wcc_woocommerce_order_items: (37)
+wcc_woocommerce_payment_tokenmeta: (0)
+wcc_woocommerce_payment_tokens: (0)
+wcc_woocommerce_sessions: (1)
+wcc_woocommerce_shipping_zone_locations: (0)
+wcc_woocommerce_shipping_zone_methods: (0)
+wcc_woocommerce_shipping_zones: (0)
+wcc_woocommerce_tax_rate_locations: (0)
+wcc_woocommerce_tax_rates: (0)
+Removed '92' cache/transient rows
+
+INSERT DATA RUNTIME: 0.6230 sec.
+STEP-2 COMPLETE @ 03:18:12 - RUNTIME: 0.6498 sec.
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/config/class.constants.php|LINE:71]
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/config/class.constants.php|LINE:71]
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 03:18:53
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Woocommerce"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "C:/xampp/htdocs/wordpress"
+path_new______________: "/storage/ssd5/434/16021434/public_html"
+siteurl_______________: "https://wordpressecommerce001.000webhostapp.com"
+url_old_______________: "http://localhost/wordpress"
+url_new_______________: "https://wordpressecommerce001.000webhostapp.com"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wcc_actionscheduler_actions"_____________________[ROWS:    35][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_actionscheduler_claims"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_actionscheduler_groups"______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_actionscheduler_logs"________________________[ROWS:   105][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_commentmeta"_________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_comments"____________________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_duplicator_packages"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_links"_______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_options"_____________________________________[ROWS:   289][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_postmeta"____________________________________[ROWS:  1400][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_posts"_______________________________________[ROWS:   181][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_term_relationships"__________________________[ROWS:    89][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_term_taxonomy"_______________________________[ROWS:    32][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_termmeta"____________________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_terms"_______________________________________[ROWS:    32][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_usermeta"____________________________________[ROWS:    73][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_users"_______________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_admin_note_actions"_______________________[ROWS:    21][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_admin_notes"______________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_category_lookup"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_customer_lookup"__________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_download_log"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_wc_order_coupon_lookup"______________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_order_product_lookup"_____________________[ROWS:    33][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_order_stats"______________________________[ROWS:    11][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_order_tax_lookup"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_wc_product_meta_lookup"______________________[ROWS:    26][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_reserved_stock"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_wc_tax_rate_classes"_________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_wc_webhooks"_________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_api_keys"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_attribute_taxonomies"____________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_log"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_order_itemmeta"__________________[ROWS:   319][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_woocommerce_order_items"_____________________[ROWS:    37][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_woocommerce_payment_tokenmeta"_______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_payment_tokens"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_sessions"________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"C:/xampp/htdocs/wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  2:"C:\/xampp\/htdocs\/wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  3:"C%3A%2Fxampp%2Fhtdocs%2Fwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  4:"C:\xampp\htdocs\wordpress" =======================> "/storage/ssd5/434/16021434/public_html"
+	SEARCH  5:"C:\\xampp\\htdocs\\wordpress" ====================> "\/storage\/ssd5\/434\/16021434\/public_html"
+	SEARCH  6:"C%3A%5Cxampp%5Chtdocs%5Cwordpress" ===============> "%2Fstorage%2Fssd5%2F434%2F16021434%2Fpublic_html"
+	SEARCH  7:"//localhost/wordpress" ===========================> "//wordpressecommerce001.000webhostapp.com"
+	SEARCH  8:"\/\/localhost\/wordpress" ========================> "\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH  9:"%2F%2Flocalhost%2Fwordpress" =====================> "%2F%2Fwordpressecommerce001.000webhostapp.com"
+	SEARCH 10:"http://wordpressecommerce001.000webhostapp.com" ==> "https://wordpressecommerce001.000webhostapp.com"
+	SEARCH 11:"http:\/\/wordpressecommerce001.000webhostapp.com" => "https:\/\/wordpressecommerce001.000webhostapp.com"
+	SEARCH 12:"http%3A%2F%2Fwordpressecommerce001.000webhostapp.com" => "https%3A%2F%2Fwordpressecommerce001.000webhostapp.com"
+
+EVALUATE TABLE: "wcc_woocommerce_shipping_zone_locations"_________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_shipping_zone_methods"___________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_shipping_zones"__________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_tax_rate_locations"______________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wcc_woocommerce_tax_rates"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+--------------------------------------
+SCANNED:	Tables:44 	|	 Rows:2765 	|	 Cells:16099 
+UPDATED:	Tables:7 	|	 Rows:198 	|	 Cells:205 
+ERRORS:		0 
+RUNTIME:	0.328300 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""id16021434_wp""
+	UPDATE DB_USER ""id16021434_admin""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Successfully created a new .htaccess file.
+- PASS: Existing Apache '.htaccess__[HASH]' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Deactivated plugins list here: Array
+(
+    [0] => simple-google-recaptcha/simple-google-recaptcha.php
+    [1] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 03:18:54 - RUNTIME: 0.3918 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================
+[PHP ERR][WARN] MSG:set_time_limit() has been disabled for security reasons [CODE:2|FILE:/storage/ssd5/434/16021434/public_html/dup-installer/classes/config/class.constants.php|LINE:71]
